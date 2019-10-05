@@ -40,7 +40,7 @@ function loadImage()
     {
         bgReady = true
     }
-    bgImage.src = "image/yard.PNG";
+    bgImage.src = "image/yard.jpg";
     giraImage = new Image()
     giraImage.onload = function()
     {
@@ -52,7 +52,7 @@ function loadImage()
     {
         treeReady = true
     }
-    treeImage.src = "image/diamond.jpg"
+    treeImage.src = "image/diamon_3.png"
 }
 
 
